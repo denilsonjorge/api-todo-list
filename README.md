@@ -1,4 +1,4 @@
-# api-todo-list[readme.md](https://github.com/user-attachments/files/33259533/readme.md)
+# api-todo-list
 # API DE TAREFAS FEITA COM NODE.JS + TYPESCRIPT
 ## DEPENDENCIAS
 - EXPRESS
